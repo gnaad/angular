@@ -38,8 +38,8 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
-            "baseHref": "/app/",
-            "deployUrl": "/app/",
+            "baseHref": "/angular/app/",
+            "deployUrl": "/angular/app/",
             "outputPath":{
               "base": "dist/angular/",
               "browser": ""
